@@ -1,0 +1,44 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 700px;
+}
+
+th {
+    background-color: rgb(61, 75, 75);
+    color: white;
+}
+
+td {
+    padding: 3px;
+}
+
+h1 {
+    color: chocolate;
+}
+
+#intro {
+    width: 800px;
+    background-color: wheat;
+    margin: auto;
+}
+
+#main {
+    width: 800px;
+    background-color: rgb(247, 247, 187);
+    margin: auto;
+}
+
+h3, h2 {
+    color: rgb(51, 23, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#survey {
+background-color: rgb(151, 194, 211);
+width: 800px;
+margin: auto;
+}
